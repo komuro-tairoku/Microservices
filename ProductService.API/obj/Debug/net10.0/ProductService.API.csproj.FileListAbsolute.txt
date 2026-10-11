@@ -1,0 +1,11 @@
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\bin\Debug\net10.0\ProductService.API.deps.json
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\bin\Debug\net10.0\ProductService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\bin\Debug\net10.0\ProductService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\refint\ProductService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ProductService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\ProductService.API\obj\Debug\net10.0\ref\ProductService.API.dll

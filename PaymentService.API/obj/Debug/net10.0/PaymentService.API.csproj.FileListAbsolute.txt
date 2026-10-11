@@ -1,0 +1,11 @@
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\bin\Debug\net10.0\PaymentService.API.deps.json
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\bin\Debug\net10.0\PaymentService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\bin\Debug\net10.0\PaymentService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\refint\PaymentService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\PaymentService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.API\obj\Debug\net10.0\ref\PaymentService.API.dll
