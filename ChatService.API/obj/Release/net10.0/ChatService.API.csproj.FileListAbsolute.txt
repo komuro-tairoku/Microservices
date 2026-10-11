@@ -1,0 +1,12 @@
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\bin\Release\net10.0\ChatService.API.deps.json
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\bin\Release\net10.0\ChatService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\bin\Release\net10.0\ChatService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.sourcelink.json
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\refint\ChatService.API.dll
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ChatService.API.pdb
+D:\IT\CODE\KTTKPM\Microservices\ChatService.API\obj\Release\net10.0\ref\ChatService.API.dll

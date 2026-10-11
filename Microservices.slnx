@@ -1,10 +1,9 @@
 <Solution>
-  <Project Path="AgentPortalApiGateway.API/AgentPortalApiGateway.API.csproj" />
-  <Project Path="AgentPortalApiGateway.Tests/AgentPortalApiGateway.Tests.csproj" />
-  <Project Path="AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
   <Project Path="AuthService.API/AuthService.API.csproj" />
   <Project Path="AuthService.Tests/AuthService.Tests.csproj" />
   <Project Path="AuthService/AuthService.csproj" />
+  <Project Path="C:/Users/bossc/Downloads/AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
+  <Project Path="C:/Users/bossc/Downloads/BlazorWasmClient/BlazorWasmClient.csproj" />
   <Project Path="ChatService.API/ChatService.API.csproj" />
   <Project Path="ChatService.Tests/ChatService.Tests.csproj" />
   <Project Path="ChatService/ChatService.csproj" />
