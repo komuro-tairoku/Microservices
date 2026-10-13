@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.deps
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.pdb
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Release\net10.0\AuthService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Release\net10.0\AuthService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Release\net10.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig

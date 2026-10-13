@@ -8,6 +8,8 @@ D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\PolicySear
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\PolicySearchService.pdb
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\PolicySearchService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\bin\Debug\net10.0\PolicySearchService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySear
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.csproj.CoreCompileInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cs
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.sourcelink.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -25,7 +28,6 @@ D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\staticweba
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\staticwebassets.development.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\swae.build.ex.cache
-D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySe.F508E8E1.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\PolicySearchService.dll
 D:\IT\CODE\KTTKPM\Microservices\PolicySearchService\obj\Debug\net10.0\refint\PolicySearchService.dll

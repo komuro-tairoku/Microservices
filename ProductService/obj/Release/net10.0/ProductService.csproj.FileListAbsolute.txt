@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductServic
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductService.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductService.pdb
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Release\net10.0\ProductService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Release\net10.0\ProductService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Release\net10.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig

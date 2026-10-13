@@ -1,0 +1,12 @@
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\bin\Release\net8.0\DocumentsService.Api.deps.json
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\bin\Release\net8.0\DocumentsService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\bin\Release\net8.0\DocumentsService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.sourcelink.json
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\refint\DocumentsService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\DocumentsService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\DocumentsService.Api\obj\Release\net8.0\ref\DocumentsService.Api.dll

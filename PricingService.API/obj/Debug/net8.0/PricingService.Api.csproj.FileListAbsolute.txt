@@ -1,0 +1,12 @@
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.sourcelink.json
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll

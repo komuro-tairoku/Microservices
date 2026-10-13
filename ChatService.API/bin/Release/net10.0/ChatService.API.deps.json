@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "ChatService.API/1.0.0": {
+      "ChatService.Api/1.0.0": {
         "runtime": {
-          "ChatService.API.dll": {}
+          "ChatService.Api.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ChatService.API/1.0.0": {
+    "ChatService.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

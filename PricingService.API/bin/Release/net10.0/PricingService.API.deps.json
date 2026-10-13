@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "PricingService.API/1.0.0": {
+      "PricingService.Api/1.0.0": {
         "runtime": {
-          "PricingService.API.dll": {}
+          "PricingService.Api.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PricingService.API/1.0.0": {
+    "PricingService.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

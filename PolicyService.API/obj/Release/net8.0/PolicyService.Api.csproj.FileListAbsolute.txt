@@ -1,0 +1,12 @@
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\bin\Release\net8.0\PolicyService.Api.deps.json
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\bin\Release\net8.0\PolicyService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\bin\Release\net8.0\PolicyService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.sourcelink.json
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\refint\PolicyService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\PolicyService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\PolicyService.Api\obj\Release\net8.0\ref\PolicyService.Api.dll

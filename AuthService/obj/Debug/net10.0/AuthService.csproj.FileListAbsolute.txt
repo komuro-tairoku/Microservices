@@ -8,6 +8,8 @@ D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\AuthService.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\AuthService.pdb
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\AuthService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\AuthService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.Assemb
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.csproj.CoreCompileInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.sourcelink.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -25,17 +28,9 @@ D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\staticwebassets.bu
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\staticwebassets.development.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\swae.build.ex.cache
-D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthServ.2ED0AEC6.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\refint\AuthService.dll
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.pdb
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.genruntimeconfig.cache
 D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\ref\AuthService.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\MediatR.Contracts.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-D:\IT\CODE\KTTKPM\Microservices\AuthService\obj\Debug\net10.0\AuthService.sourcelink.json

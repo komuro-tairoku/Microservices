@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.dll
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.pdb
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Release\net10.0\PolicyService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Release\net10.0\PolicyService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Release\net10.0\PolicyService.GeneratedMSBuildEditorConfig.editorconfig

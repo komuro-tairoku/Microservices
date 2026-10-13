@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "ProductService.API/1.0.0": {
+      "ProductService.Api/1.0.0": {
         "runtime": {
-          "ProductService.API.dll": {}
+          "ProductService.Api.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ProductService.API/1.0.0": {
+    "ProductService.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

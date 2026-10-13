@@ -8,6 +8,8 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\PaymentService.
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\PaymentService.pdb
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\PaymentService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Debug\net10.0\PaymentService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.csproj.CoreCompileInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.MvcApplicationPartsAssemblyInfo.cs
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.sourcelink.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -25,7 +28,6 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\staticwebassets
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\staticwebassets.development.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\swae.build.ex.cache
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentS.0CEDD34D.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\PaymentService.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Debug\net10.0\refint\PaymentService.dll

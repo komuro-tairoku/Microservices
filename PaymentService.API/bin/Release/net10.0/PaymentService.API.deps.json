@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "PaymentService.API/1.0.0": {
+      "PaymentService.Api/1.0.0": {
         "runtime": {
-          "PaymentService.API.dll": {}
+          "PaymentService.Api.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PaymentService.API/1.0.0": {
+    "PaymentService.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.deps
 D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.dll
 D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.pdb
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\ChatService\bin\Release\net10.0\ChatService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\ChatService\obj\Release\net10.0\ChatService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\ChatService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\ChatService\obj\Release\net10.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig

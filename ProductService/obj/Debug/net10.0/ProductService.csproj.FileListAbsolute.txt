@@ -8,6 +8,8 @@ D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\ProductService.
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\ProductService.pdb
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\ProductService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService\bin\Debug\net10.0\ProductService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.csproj.CoreCompileInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.sourcelink.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -25,7 +28,6 @@ D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\staticwebassets
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\staticwebassets.development.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\swae.build.ex.cache
-D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductS.A0FC5512.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\ProductService.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService\obj\Debug\net10.0\refint\ProductService.dll

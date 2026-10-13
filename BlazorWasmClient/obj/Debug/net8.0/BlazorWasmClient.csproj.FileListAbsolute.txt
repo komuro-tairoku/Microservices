@@ -1,0 +1,8 @@
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.AssemblyReference.cache
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfoInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfo.cs
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.CoreCompileInputs.cache
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.sourcelink.json

@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingServic
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingService.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingService.pdb
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Release\net10.0\PricingService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Release\net10.0\PricingService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Release\net10.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig

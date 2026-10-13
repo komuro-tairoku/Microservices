@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TRtGMAOeFQ0=",
+  "dgSpecHash": "6xoyYjx47W4=",
   "success": true,
-  "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\ProductService.API\\ProductService.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\ProductService.Api\\ProductService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,4 @@
-@ChatService_HostAddress = http://localhost:5148
+@ChatService_HostAddress = http://localhost:5173
 
 GET {{ChatService_HostAddress}}/weatherforecast/
 Accept: application/json

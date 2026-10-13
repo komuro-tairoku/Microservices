@@ -8,6 +8,8 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\PricingService.
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\PricingService.pdb
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\PricingService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.csproj.CoreCompileInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.MvcApplicationPartsAssemblyInfo.cs
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.sourcelink.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -25,7 +28,6 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\staticwebassets
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\staticwebassets.development.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\swae.build.ex.cache
-D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingS.6EB92AD7.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\refint\PricingService.dll

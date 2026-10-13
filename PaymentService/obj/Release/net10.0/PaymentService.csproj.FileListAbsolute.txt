@@ -6,14 +6,10 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentServic
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentService.runtimeconfig.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentService.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentService.pdb
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\MediatR.dll
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\MediatR.Contracts.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
-D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\Microsoft.OpenApi.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService\bin\Release\net10.0\PaymentService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Release\net10.0\PaymentService.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Release\net10.0\rpswa.dswa.cache.json
 D:\IT\CODE\KTTKPM\Microservices\PaymentService\obj\Release\net10.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
