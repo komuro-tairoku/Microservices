@@ -34,3 +34,14 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\refint\PricingS
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.pdb
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\PricingService.genruntimeconfig.cache
 D:\IT\CODE\KTTKPM\Microservices\PricingService\obj\Debug\net10.0\ref\PricingService.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Common.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Common.Abstractions.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Common.Http.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Connector.Abstractions.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Connector.ConnectorBase.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Discovery.Abstractions.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Discovery.ClientBase.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Discovery.ClientCore.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService\bin\Debug\net10.0\Steeltoe.Discovery.Eureka.dll

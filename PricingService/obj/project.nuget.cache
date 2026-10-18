@@ -1,11 +1,47 @@
 {
   "version": 2,
-  "dgSpecHash": "tDhldPF+Vso=",
+  "dgSpecHash": "lTpAzK5xUSY=",
   "success": true,
   "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\PricingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.common\\3.2.7\\steeltoe.common.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.common.abstractions\\3.2.7\\steeltoe.common.abstractions.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.common.http\\3.2.7\\steeltoe.common.http.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.connector.abstractions\\3.2.7\\steeltoe.connector.abstractions.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.connector.connectorbase\\3.2.7\\steeltoe.connector.connectorbase.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.discovery.abstractions\\3.2.7\\steeltoe.discovery.abstractions.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.discovery.clientbase\\3.2.7\\steeltoe.discovery.clientbase.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.discovery.clientcore\\3.2.7\\steeltoe.discovery.clientcore.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.discovery.eureka\\3.2.7\\steeltoe.discovery.eureka.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\steeltoe.extensions.configuration.abstractions\\3.2.7\\steeltoe.extensions.configuration.abstractions.3.2.7.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\system.reflection.metadataloadcontext\\4.6.0\\system.reflection.metadataloadcontext.4.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Steeltoe.Discovery.Eureka' 3.2.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-j8ph-6fxj-g533",
+      "projectPath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\PricingService.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\PricingService.csproj",
+      "libraryId": "Steeltoe.Discovery.Eureka",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'Steeltoe.Discovery.Eureka' 3.2.7 has a known low severity vulnerability, https://github.com/advisories/GHSA-vmcp-66r5-3pcp",
+      "projectPath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\PricingService.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\PricingService.csproj",
+      "libraryId": "Steeltoe.Discovery.Eureka",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

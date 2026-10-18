@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ed7xUFjbVjg=",
+  "dgSpecHash": "SCRedHOFGTk=",
   "success": true,
   "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\BlazorWasmClient\\BlazorWasmClient.csproj",
   "expectedPackageFiles": [
@@ -51,18 +51,18 @@
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.jsinterop\\8.0.6\\microsoft.jsinterop.8.0.6.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.6\\microsoft.jsinterop.webassembly.8.0.6.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.30\\microsoft.net.illink.tasks.8.0.30.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.11\\microsoft.net.sdk.webassembly.pack.10.0.11.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.32\\microsoft.net.illink.tasks.8.0.32.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.13\\microsoft.net.sdk.webassembly.pack.10.0.13.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
-    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.30\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.30.nupkg.sha512"
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.32\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.32.nupkg.sha512"
   ],
   "logs": []
 }

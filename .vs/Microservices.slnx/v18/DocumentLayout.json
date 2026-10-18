@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|d:\\it\\code\\kttkpm\\microservices\\pricingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|d:\\it\\code\\kttkpm\\microservices\\pricingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|d:\\it\\code\\kttkpm\\microservices\\pricingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PricingService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PricingService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T08:24:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\appsettings.json",
+              "RelativeDocumentMoniker": "PricingService\\appsettings.json",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\appsettings.json",
+              "RelativeToolTip": "PricingService\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T08:23:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\Program.cs",
+              "RelativeDocumentMoniker": "PricingService\\Program.cs",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PricingService\\Program.cs",
+              "RelativeToolTip": "PricingService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T08:22:05.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
