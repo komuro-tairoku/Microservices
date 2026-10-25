@@ -139,13 +139,12 @@
   <Project Path="AuthService.Test/AuthService.Test.csproj" />
   <Project Path="AuthService/AuthService.csproj" />
   <Project Path="BlazorWasmClient/BlazorWasmClient.csproj" />
-  <Project Path="C:/Users/bossc/Downloads/PricingService.Api/PricingService.Api.csproj" />
-  <Project Path="C:/Users/bossc/Downloads/PricingService.IntegrationTest/PricingService.IntegrationTest.csproj" />
-  <Project Path="C:/Users/bossc/Downloads/PricingService.Test/PricingService.Test.csproj" />
   <Project Path="ChatService.Api/ChatService.Api.csproj" />
   <Project Path="ChatService.Test/ChatService.Test.csproj" />
   <Project Path="ChatService/ChatService.csproj" />
   <Project Path="DashboardService.Api/DashboardService.Api.csproj" />
+  <Project Path="DashboardService.Test/DashboardService.Test.csproj" />
+  <Project Path="DashboardService/DashboardService.csproj" />
   <Project Path="DocumentsService.Api/DocumentsService.Api.csproj" />
   <Project Path="DocumentsService.Test/DocumentsService.Test.csproj" />
   <Project Path="DocumentsService/DocumentsService.csproj" />
@@ -158,6 +157,9 @@
   <Project Path="PolicyService.Api/PolicyService.Api.csproj" />
   <Project Path="PolicyService.Test/PolicyService.Test.csproj" />
   <Project Path="PolicyService/PolicyService.csproj" />
+  <Project Path="PricingService.Api/PricingService.Api.csproj" />
+  <Project Path="PricingService.IntegrationTest/PricingService.IntegrationTest.csproj" />
+  <Project Path="PricingService.Test/PricingService.Test.csproj" />
   <Project Path="PricingService/PricingService.csproj" />
   <Project Path="ProductService.Api/ProductService.Api.csproj" />
   <Project Path="ProductService.Test/ProductService.Test.csproj" />

@@ -10,3 +10,4 @@ D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Release\net8.0\PricingSer
 D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Release\net8.0\refint\PricingService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Release\net8.0\PricingService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Release\net8.0\ref\PricingService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PricingService.Api\obj\Release\net8.0\PricingS.28790EEE.Up2Date

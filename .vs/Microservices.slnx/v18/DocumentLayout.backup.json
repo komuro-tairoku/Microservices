@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE85D92-590F-3D65-5534-7D3948744F78}|DashboardService\\DashboardService.csproj|d:\\it\\code\\kttkpm\\microservices\\dashboardservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE85D92-590F-3D65-5534-7D3948744F78}|DashboardService\\DashboardService.csproj|solutionrelative:dashboardservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE85D92-590F-3D65-5534-7D3948744F78}|DashboardService\\DashboardService.csproj|d:\\it\\code\\kttkpm\\microservices\\dashboardservice\\listeners\\policycreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE85D92-590F-3D65-5534-7D3948744F78}|DashboardService\\DashboardService.csproj|solutionrelative:dashboardservice\\listeners\\policycreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2359B45-5A76-DAC1-CE22-F700277D1BBA}|PolicyService.Api\\PolicyService.Api.csproj|d:\\it\\code\\kttkpm\\microservices\\policyservice.api\\events\\policycreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2359B45-5A76-DAC1-CE22-F700277D1BBA}|PolicyService.Api\\PolicyService.Api.csproj|solutionrelative:policyservice.api\\events\\policycreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\DashboardService\\Startup.cs",
+              "RelativeDocumentMoniker": "DashboardService\\Startup.cs",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\DashboardService\\Startup.cs",
+              "RelativeToolTip": "DashboardService\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:33:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyCreatedHandler.cs",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\DashboardService\\Listeners\\PolicyCreatedHandler.cs",
+              "RelativeDocumentMoniker": "DashboardService\\Listeners\\PolicyCreatedHandler.cs",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\DashboardService\\Listeners\\PolicyCreatedHandler.cs",
+              "RelativeToolTip": "DashboardService\\Listeners\\PolicyCreatedHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:30:50.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyCreated.cs",
+              "DocumentMoniker": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PolicyService.Api\\Events\\PolicyCreated.cs",
+              "RelativeDocumentMoniker": "PolicyService.Api\\Events\\PolicyCreated.cs",
+              "ToolTip": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PolicyService.Api\\Events\\PolicyCreated.cs",
+              "RelativeToolTip": "PolicyService.Api\\Events\\PolicyCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:30:41.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

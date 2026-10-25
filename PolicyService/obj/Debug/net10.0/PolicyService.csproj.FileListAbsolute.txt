@@ -34,3 +34,5 @@ D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Debug\net10.0\refint\PolicySer
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Debug\net10.0\PolicyService.pdb
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Debug\net10.0\PolicyService.genruntimeconfig.cache
 D:\IT\CODE\KTTKPM\Microservices\PolicyService\obj\Debug\net10.0\ref\PolicyService.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Debug\net10.0\MediatR.dll
+D:\IT\CODE\KTTKPM\Microservices\PolicyService\bin\Debug\net10.0\MediatR.Contracts.dll

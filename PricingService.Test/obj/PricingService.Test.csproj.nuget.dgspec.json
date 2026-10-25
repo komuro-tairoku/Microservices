@@ -503,6 +503,18 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.11, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[25.0.2, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.7, )"
             }
           },
           "imports": [

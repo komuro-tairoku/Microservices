@@ -1,6 +1,20 @@
+C:\Users\bossc\Downloads\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.deps.json
+C:\Users\bossc\Downloads\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.dll
+C:\Users\bossc\Downloads\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.pdb
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.csproj.AssemblyReference.cache
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.AssemblyInfoInputs.cache
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.AssemblyInfo.cs
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.dll
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\refint\DashboardService.Api.dll
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.pdb
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\ref\DashboardService.Api.dll
+C:\Users\bossc\Downloads\DashboardService.Api\obj\Release\net8.0\Dashboar.A2790334.Up2Date
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.deps.json
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\bin\Release\net8.0\DashboardService.Api.pdb
+D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.csproj.AssemblyReference.cache
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.AssemblyInfoInputs.cache
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.AssemblyInfo.cs
@@ -10,3 +24,4 @@ D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\Dashboar
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\refint\DashboardService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\DashboardService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\ref\DashboardService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\DashboardService.Api\obj\Release\net8.0\Dashboar.A2790334.Up2Date

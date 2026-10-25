@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SCRedHOFGTk=",
+  "dgSpecHash": "WhgSzhRBSKY=",
   "success": true,
   "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\BlazorWasmClient\\BlazorWasmClient.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "C:\\Users\\bossc\\.nuget\\packages\\blazorise.licensing\\1.2.0\\blazorise.licensing.1.2.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\blazorise.snackbar\\1.5.3\\blazorise.snackbar.1.5.3.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\lambda2js\\3.1.4\\lambda2js.3.1.4.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.6\\microsoft.aspnetcore.components.analyzers.8.0.6.nupkg.sha512",
