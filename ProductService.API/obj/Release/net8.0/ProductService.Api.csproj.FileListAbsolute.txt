@@ -10,3 +10,5 @@ D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\ProductSer
 D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\refint\ProductService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\ProductService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\ref\ProductService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\ProductService.Api.csproj.AssemblyReference.cache
+D:\IT\CODE\KTTKPM\Microservices\ProductService.Api\obj\Release\net8.0\ProductS.06129931.Up2Date

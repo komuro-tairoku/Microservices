@@ -10,3 +10,5 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\PaymentSer
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\refint\PaymentService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\PaymentService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\ref\PaymentService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\PaymentService.Api.csproj.AssemblyReference.cache
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Release\net8.0\PaymentS.E1B01A73.Up2Date

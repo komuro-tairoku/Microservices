@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4RZYrzHEpSw=",
+  "dgSpecHash": "kMWp+wdD3tM=",
   "success": true,
   "projectFilePath": "D:\\IT\\CODE\\KTTKPM\\Microservices\\PaymentService.Api\\PaymentService.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bossc\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\bossc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
     "C:\\Users\\bossc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"

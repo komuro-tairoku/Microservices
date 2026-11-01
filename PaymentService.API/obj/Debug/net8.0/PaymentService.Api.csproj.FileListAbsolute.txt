@@ -10,3 +10,4 @@ D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Debug\net8.0\PaymentServi
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Debug\net8.0\refint\PaymentService.Api.dll
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.pdb
 D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Debug\net8.0\ref\PaymentService.Api.dll
+D:\IT\CODE\KTTKPM\Microservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.csproj.AssemblyReference.cache
